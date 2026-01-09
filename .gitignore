@@ -32,3 +32,9 @@ uv.lock
 
 # Log files
 *.log
+
+# Local configuration files
+scripts/config.py
+
+# Data files
+data/*

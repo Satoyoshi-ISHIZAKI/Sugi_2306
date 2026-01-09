@@ -1,2 +1,6 @@
-data/Bird_Sanaruko.xlsx filter=lfs diff=lfs merge=lfs -text
-data/*.xlsx filter=lfs diff=lfs merge=lfs -text
+# Normalize text files automatically
+* text=auto
+
+# Keep LF endings for these files even on Windows
+pyproject.toml text eol=lf
+.python-version text eol=lf
