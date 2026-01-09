@@ -40,6 +40,6 @@ run_faprotax_simple(
 
 ## About FAPROTAX
 
-FAPROTAX (Functional Annotation of Prokaryotic Taxa) is a database and tool for inferring microbial functions from 16S rRNA gene sequence data.
+I used FAPROTAX (Functional Annotation of Prokaryotic Taxa), a database and tool for inferring microbial functions from 16S rRNA gene sequence data for functional assignment.
 
-- Official site: http://www.loucalab.com/archive/FAPROTAX/lib/php/index.php?section=Home
+- Official site of FAPROTAX: http://www.loucalab.com/archive/FAPROTAX/lib/php/index.php?section=Home
