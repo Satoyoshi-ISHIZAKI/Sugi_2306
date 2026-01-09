@@ -1,0 +1,10 @@
+[project]
+name = "sugi-2306"
+version = "0.1.0"
+description = "Analysis of the amplicon sequence data of the phyllosphere microbiome of Japanese cedar, collected in June 2306."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+]
